@@ -12,7 +12,7 @@
         I spend most of my time learning how to create mods or plugins for other games (like ZZZ and COD) and working with Minecraft Spigot to create plugins.
         <br/><br/>
         <!--<img align="center" src ="docs/AbsoluteCinemaMiyabi2.jpg" width="50" /> -->
-        <img align="center" src ="https://i.pinimg.com/736x/6e/82/0f/6e820fa8888ceeeeaf1a20fb48c2dbd3.jpg" width="50">
+        <img align="center" src ="https://i.redd.it/t69ov7ys10xe1.gif" width="50">
         <img align="center" src ="docs/BurniceAwao.png" width="50" />
         <br/><br/>
         09-05 | Awao
