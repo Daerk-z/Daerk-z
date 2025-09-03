@@ -15,6 +15,6 @@
         <img align="center" src ="docs/AliceFace.png" width="50">
         <img align="center" src ="docs/BurniceAwao.png" width="50" />
         <br/><br/>
-        09-05 | Awao
+        09-25 | Awao
     </p>
 </p>
