@@ -1,5 +1,5 @@
 
-<img align="right" src="docs/AbsoluteCinemaMiyabi.png" widht="250" >
+<img align="right" src="docs/AbsoluteCinemaMiyabi.png" width="250" >
 
 
 <br/><br/>
