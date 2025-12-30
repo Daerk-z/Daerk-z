@@ -1,20 +1,15 @@
 
-<img align="right" src="docs/AbsoluteCinemaMiyabi.png" width="250" >
-
+<!--> <img align="right" src="docs/AbsoluteCinemaMiyabi.png" width="250" > -->
 
 <br/><br/>
 <p align= "center">
-    <p align= "center">
-        Helloo, I´m DaerK.
+        Hey, you!
         <br/><br/>
-        I do Minecraft plugins for fun, based on others games or just random ideas.
-        <br/><br/>
-        I spend most of my time learning how to create mods or plugins for other games (like ZZZ and COD) and working with Minecraft Spigot API to create plugins.
+        Take this rose.
         <br/><br/>
         <!--<img align="center" src ="docs/AbsoluteCinemaMiyabi2.jpg" width="50" /> -->
-        <img align="center" src ="docs/AliceFace.png" width="50">
-        <img align="center" src ="docs/BurniceAwao.png" width="50" />
+        <img src ="https://tenor.com/es-419/view/floreyonce-cat-kitty-pussycat-love-you-gif-1407003454344358310" width="50">
         <br/><br/>
-        09-25 | Awao
+        12-25 | Im pibble, wash my belly
     </p>
 </p>
