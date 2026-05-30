@@ -1,10 +1,8 @@
 <p align= "center">
-        Hey, you!
+        Analysis and Software Development student
         <br/>
-        take this rose.
-        <br/>
-        <img src ="https://media.tenor.com/gD1awOKldpcAAAAM/nanobombs-cat.gif" />
+        Student developer apssionate about game scripting and plugin development | Java |
         <br/><br/>
-        12-25 | Im pibble, wash my belly
+        Turning ideas into code since 2024 | Minecraft plugins | COD Scripts |
     </p>
 </p>
