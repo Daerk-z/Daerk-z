@@ -17,4 +17,4 @@ Analysis and Software Development student apssionate about game scripting and pl
 
 
 ## GitHub Stats
-[![Daerk-z](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Daerk-z GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daerk-z)](https://github.com/Daerk-z/github-readme-stats)
