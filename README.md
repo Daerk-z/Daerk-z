@@ -18,3 +18,15 @@ Analysis and Software Development student apssionate about game scripting and pl
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
+## Pinned Projects
+
+### [KiwiBlack](https://github.com/Daerk-z/KiwiBlack)
+A minecraft plugin that do different things from random ideas.
+Built in Java.
+
+### [COD-BO2-Script](https://github.com/Daerk-z/COD-BO2-Scripts)
+A repository that contains scripts for Call Of Duty Black Ops 2.
+Written in GSC.
+
+---
