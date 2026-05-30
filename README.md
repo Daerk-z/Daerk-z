@@ -19,14 +19,9 @@ Analysis and Software Development student apssionate about game scripting and pl
 
 ---
 
-## Pinned Projects
+## About me
 
-### [KiwiBlack](https://github.com/Daerk-z/KiwiBlack)
-A minecraft plugin that do different things from random ideas.
-Built in Java.
+- 🎓 Studying Analysis and Software Development
+- 📍 Colombia
 
-### [COD-BO2-Script](https://github.com/Daerk-z/COD-BO2-Scripts)
-A repository that contains scripts for Call Of Duty Black Ops 2.
-Written in GSC.
-
----
+--- 
